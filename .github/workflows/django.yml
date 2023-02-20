@@ -55,7 +55,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: makcfd@gmail.com
-          password: Avyx4HmPqqHM.3X
+          password: Dk&#!#T8Q_5mUHZ
       - name: Push to Docker Hub
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2 
